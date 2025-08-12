@@ -1,11 +1,11 @@
 ### Olá! Eu sou o João Pedro Tavares e Amorim 👋
 
 <p align="left">
-  Sou um estudante de Engenharia de Software na PUC Minas,atualmento no quarto periodo, focado em desenvolvimento Back-end e na cultura DevOps. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos.
+  Sou um estudante de Engenharia de Software na PUC Minas, atualmente no quarto período, focado em desenvolvimento Back-end e na cultura DevOps. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos.
 </p>
 
 - 🌱 Atualmente estou aprimorando minhas habilidades em **C# com .NET, Java com Spring Boot**.
-- 📫 Como me contatar: **joaotavarespcz@gmail.com**
+- 📫 Como me contatar: **joaotavarespcz@gmail.com**.
 - 📍 Moro em **Belo Horizonte, Brasil**.
 
 ---
@@ -35,6 +35,19 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
 </p>
+
+---
+
+### 🚀 Meu Principal Projeto
+
+<h3 align="center">Sistema de Gerenciamento para Restaurantes</h3>
+<div align="center">
+ <p>Sistema desenvolvido para promover maior eficiência e sustentabilidade na gestão de restaurantes, com controle de estoque e gestão financeira.</p>
+<p><i>Tecnologias: Spring Boot, MySQL, JavaScript </i></p>
+  <a href="https://github.com/ArtMix532/Trabalho-Interdisciplina-2-RMS/tree/main" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
