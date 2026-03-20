@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Pedro Tavares e Amorim 👋
 
 <p align="left">
-  Sou um estudante de Engenharia de Software na PUC Minas, atualmente no quarto período, focado em desenvolvimento Back-end e na cultura DevOps. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos.
+  Sou um estudante de Engenharia de Software na PUC Minas, atualmente no quarto período, focado em desenvolvimento Back-end. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos.
 </p>
 
 - 🌱 Atualmente estou aprimorando minhas habilidades em **C# com .NET, Java com Spring Boot**.
